@@ -1,4 +1,4 @@
-!/bin/sh
+#!/bin/sh
 
 # Window positioner
 # Author: Reza Rezaei
